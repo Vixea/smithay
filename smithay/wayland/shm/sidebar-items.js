@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["BufferAccessError"],"fn":["has_alpha","with_buffer_contents","with_buffer_contents_mut"],"struct":["BufferData","ShmBufferUserData","ShmPoolUserData","ShmState"],"trait":["ShmHandler"]};
